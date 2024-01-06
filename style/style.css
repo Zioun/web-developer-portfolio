@@ -141,3 +141,7 @@ main{
 .resume-item-institute, .resume-item-description{
     color: #757575;
 }
+.dowload-cv{
+    text-align: center;
+    margin-top: 50px;
+}
