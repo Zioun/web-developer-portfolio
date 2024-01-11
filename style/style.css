@@ -176,3 +176,17 @@ footer{
     width: 100%;
     border: none;
 }
+/* hide */
+.hide{
+    display: none;
+}
+/* media Query */
+@media screen and (max-width: 576px){
+    .skills-container{
+        flex-direction: column;
+    }
+    #what-i-do-description {
+        padding: 30px 10px;
+    }
+    
+}
